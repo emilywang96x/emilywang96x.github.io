@@ -1,5 +1,5 @@
 ---
 layout: article
-title: Document - How to write academic paper
+title: Mood-Reflections recently
 mathjax: true
 ---
